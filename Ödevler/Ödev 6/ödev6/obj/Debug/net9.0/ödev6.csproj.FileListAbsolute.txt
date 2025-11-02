@@ -1,0 +1,10 @@
+/Users/keremaltunoglu/Desktop/Ödev 6/ödev6/bin/Debug/net9.0/ödev6
+/Users/keremaltunoglu/Desktop/Ödev 6/ödev6/bin/Debug/net9.0/ödev6.dll
+/Users/keremaltunoglu/Desktop/Ödev 6/ödev6/bin/Debug/net9.0/ödev6.pdb
+/Users/keremaltunoglu/Desktop/Ödev 6/ödev6/obj/Debug/net9.0/ödev6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keremaltunoglu/Desktop/Ödev 6/ödev6/obj/Debug/net9.0/ödev6.AssemblyInfoInputs.cache
+/Users/keremaltunoglu/Desktop/Ödev 6/ödev6/obj/Debug/net9.0/ödev6.AssemblyInfo.cs
+/Users/keremaltunoglu/Desktop/Ödev 6/ödev6/obj/Debug/net9.0/ödev6.csproj.CoreCompileInputs.cache
+/Users/keremaltunoglu/Desktop/Ödev 6/ödev6/obj/Debug/net9.0/ödev6.dll
+/Users/keremaltunoglu/Desktop/Ödev 6/ödev6/obj/Debug/net9.0/refint/ödev6.dll
+/Users/keremaltunoglu/Desktop/Ödev 6/ödev6/obj/Debug/net9.0/ödev6.pdb
