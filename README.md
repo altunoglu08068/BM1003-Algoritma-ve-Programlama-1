@@ -71,7 +71,7 @@ Her alıştırma klasöründe soru bazında düzenlenmiş bağımsız .NET proje
 .NET 9 SDK'nın kurulu olduğundan emin olun. Bir çözümü çalıştırmak için terminalde ilgili proje klasörüne geçip `dotnet run` komutunu kullanın:
 
 ```bash
-cd "exercises/01-exercise/Soru 1/soru1"
+cd "exercises/01-exercise/question-01/soru1"
 dotnet run
 ```
 

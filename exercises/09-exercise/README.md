@@ -6,5 +6,5 @@
 
 | Soru | Konu | Dokümantasyon |
 |---|---|---|
-| soru 1 | Ürün Siparişi ve İndirim Hesaplama | [README](<soru 1/README.md>) |
-| soru 2 | Çanta Envanterini Yönetme | [README](<soru 2/README.md>) |
+| soru 1 | Ürün Siparişi ve İndirim Hesaplama | [README](<question-01/README.md>) |
+| soru 2 | Çanta Envanterini Yönetme | [README](<question-02/README.md>) |
