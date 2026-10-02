@@ -1,3 +1,14 @@
 # Exercise 07
 
-Bu klasör, yedinci alıştırma kapsamındaki algoritma ve programlama sorularının C# çözümlerini içerir. Her soru kendi .NET projesinde bulunur.
+7. alıştırma kapsamındaki C# soru çözümleri ve her sorunun ayrıntılı dokümantasyonu.
+
+## Sorular
+
+| Soru | Konu | Dokümantasyon |
+|---|---|---|
+| Soru 1 | Rastgele Kare Matris Oluşturma | [README](<Soru 1/README.md>) |
+| Soru 1.1 | Ana Köşegen Toplamı | [README](<Soru 1.1/README.md>) |
+| Soru 1.2 | Köşegenlerin Toplamı ve Çarpımı | [README](<Soru 1.2/README.md>) |
+| Soru 1.3 | Köşegenler ve Negatif Eleman Sayısı | [README](<Soru 1.3/README.md>) |
+| Soru 2 | Sabit Diziyi Tanımlama ve Yazdırma | [README](<Soru 2/README.md>) |
+| Soru 2.1 | Diziyi Ters Sırayla Oluşturma | [README](<Soru 2.1/README.md>) |
